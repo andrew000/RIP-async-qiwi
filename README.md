@@ -1,12 +1,10 @@
-# 🥝 qiwi-async
+# 🥝 async-qiwi
 
-___
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Simple wrapper for QIWI Kassa for Invoice creating.
 
 **Alpha release!**
-___
 
 ## Installation
 
@@ -14,16 +12,12 @@ ___
 $ python3 -m pip install async-qiwi
 ```
 
-___
-
 ## Dependencies
 
 | Library  | Description       |
 |----------|-------------------|
 | aiohttp  | http client       |
 | pydantic | schema validation |
-
-___
 
 ## Example
 
